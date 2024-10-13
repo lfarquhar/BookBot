@@ -1,3 +1,5 @@
+BookBot is my first project!
+
 Welcome to your first project! We're going to build "Book Bot" - a Python program that can analyze an entire book and print out an interesting statistical report. A few of the learning goals are:
 
 Configure a professional Python development environment on your local computer
