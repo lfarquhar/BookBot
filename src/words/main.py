@@ -1,4 +1,4 @@
-def count_words(file_path):
+ def count_words(file_path):
     number_of_words = 0
 
     with open(file_path) as f:
@@ -36,4 +36,6 @@ def main():
     for entry, value in cnt_dictionary.items():
         print(f"The '{entry}' character was found {value} times.")
 
+
 main()
+
